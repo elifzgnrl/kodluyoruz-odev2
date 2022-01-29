@@ -1,12 +1,17 @@
 # kodluyoruz-odev2
-index.html sayfasına bir adet resim  ve bu resime bir açıklama ekledim.
-Sevdiğim film, dizi ve kitapları bunlar başlıklar olacak şekilde sıraladım. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
-Bunları sıralarken film ve dizilere IMDb linki, kitaplara da Goodreads linkini yazdım.
+index.html sayfasına sevdiğim film, dizi ve kitapları bunlar başlıklar olacak şekilde sıraladım. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
+Bunları sıralarken film ve dizilere IMDb linki, kitaplara da Goodreads linklerini ekledim.
+Tüm film, dizi ve kitaplar için bir adet görsel ve tanıtım metni* ekledim. (* Metinlerde Lorem Ipsum' dan faydalanılmıştır.)
 Kurduğum yapılarda block, inline gibi elementler kullanmaya çalıştım.
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz HTML konusunun 2 ödevidir. İçerisinde bir adet REDAME.md dosyası, bir adet de index.html ve resim dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin HTML konusunun ikinci ödevidir. 
+Proje içerik olarak;
+REDAME.md
+index.html
+resim dosyalarını barındırıyor.
 
 ![](ekran_ciktisi.PNG)
+
 # Installation
 Öncelikle projeyi klonlayın. 
 
