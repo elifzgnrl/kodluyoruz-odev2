@@ -5,14 +5,19 @@ Tüm film, dizi ve kitaplar için bir adet görsel ve tanıtım metni* ekledim. 
 Kurduğum yapılarda block, inline gibi elementler kullanmaya çalıştım.
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin HTML konusunun ikinci ödevidir. 
+
 Proje içerik olarak;
+
 REDAME.md
+
 index.html
+
 resim dosyalarını barındırıyor.
 
 ![](ekran_ciktisi.PNG)
 
 # Installation
+
 Öncelikle projeyi klonlayın. 
 
 [https://github.com/elifzgnrl/kodluyoruz-odev2](https://github.com/elifzgnrl/kodluyoruz-odev2)
