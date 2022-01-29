@@ -15,7 +15,7 @@ index.html
 
 resim dosyalarını barındırıyor.
 
-![](index.PNG)
+![](ekran_ciktisi.PNG)
 
 # Installation
 
