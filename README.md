@@ -4,14 +4,6 @@ Sevdiğim film, dizi ve kitapları bunlar başlıklar olacak şekilde sıraladı
 Bunları sıralarken film ve dizilere IMDb linki, kitaplara da Goodreads linkini yazdım.
 Kurduğum yapılarda block, inline gibi elementler kullanmaya çalıştım.
 
-
-
-
-[https://github.com/elifzgnrl/kodluyoruz-odev2](https://github.com/elifzgnrl/kodluyoruz-odev2)
-
-
-
-# Kodluyoruz İlk Repo 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz HTML konusunun 2 ödevidir. İçerisinde bir adet REDAME.md dosyası, bir adet de index.html ve resim dosyası barındırıyor.
 
 ![](ekran_ciktisi.PNG)
